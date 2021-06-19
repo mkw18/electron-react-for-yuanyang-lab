@@ -2,7 +2,7 @@ body {
     position: relative;
     color: #fff;
     height: 100vh;
-    background: linear-gradient(200.96deg, #04fdd4 -29.09%, #954cf5 51.77%, #108cf1 129.35%);
+    background: linear-gradient(200.96deg, #043efd -29.09%, #954cf5 51.77%, #108cf1 129.35%);
     font-family: sans-serif;
     overflow-y: hidden;
     display: flex;
@@ -34,7 +34,7 @@ button {
     border: none;
     appearance: none;
     font-size: 1.3rem;
-    box-shadow: 0px 8px 28px -6px rgba(228, 10, 10, 0.932), 0px 18px 88px -4px rgba(228, 10, 10, 0.842);
+    box-shadow: 0px 8px 28px -6px rgba(0, 15, 2, 0.932), 0px 18px 88px -4px rgba(0, 15, 2, 0.932);
     transition: transform ease-in 0.1s;
     cursor: pointer;
 }
